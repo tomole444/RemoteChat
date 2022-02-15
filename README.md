@@ -1,5 +1,6 @@
 # RemoteChat
 A Spigot Plugin that allows you to send messages / execute commands as other Players
+
 Spigot version 1.18.1
 # Install
 Put the RemoteChat.jar file in your plugins folder
