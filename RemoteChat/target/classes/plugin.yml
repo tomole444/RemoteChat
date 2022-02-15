@@ -1,0 +1,10 @@
+name: RemoteChat
+version: '1.0'
+main: me.tomle.remotechat.RemoteChat
+api-version: 1.18
+authors: [ tomole444 ]
+description: This plugin lets you remotely send chat messages and execute commands as other players
+commands:
+  remote:
+    description: Chat / execute commands as a other player
+    usage: /<command> [player] [message]
